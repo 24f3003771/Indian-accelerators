@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.DS_Store
+Thumbs.db
+
+# Transient inspection & probe scripts
+probe_*.py
+inspect_*.py
+test_*.py
+deep_inspect*.py
+find_*.py
+print_*.py
+capture_*.py
+*.json
